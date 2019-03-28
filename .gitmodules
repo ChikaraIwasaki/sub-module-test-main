@@ -1,0 +1,4 @@
+[submodule "sub"]
+	path = sub
+	url = https://github.com/ChikaraIwasaki/sub-module-test-sub.git
+	branch = master
